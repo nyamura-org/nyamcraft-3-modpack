@@ -9,10 +9,6 @@ file = "config/aether-server.toml"
 hash = "994b732edf2cb04c447b86a95e0770ce1c22d66fc8a84a5109b983c592601304"
 
 [[files]]
-file = "config/antiportals-common.toml"
-hash = "d286a03b9bdd7e92507b744b82ddef06c8100cb106eb0422a84e927fd048486e"
-
-[[files]]
 file = "config/appleskin-client.toml"
 hash = "6a3624ed584e6d2c4323957c3ca3d17bf2c01c7bbb73b9ee487378ff69d88aba"
 
@@ -946,11 +942,6 @@ metafile = true
 [[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "9efd2467725934e660f256346950d4e10ca44f034475ce8909a29fe0790dd5cc"
-metafile = true
-
-[[files]]
-file = "mods/antiportals.pw.toml"
-hash = "7ee099f2ad76349db6e5092ef285c461275931dbdfa15812fd659bca4d4b8480"
 metafile = true
 
 [[files]]
