@@ -594,7 +594,7 @@ hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
 file = "config/xaero/minimap/client.cfg"
-hash = "388b00d8459a7bbc788eb505732308b5ee7075fbbdde626e24b5a9e4c61cb8bb"
+hash = "22ffb994e32704639e175d8c78443d0df8b0628cc9f6299ca33383b0a4bdf760"
 
 [[files]]
 file = "config/xaero/minimap/common.cfg"
@@ -626,7 +626,7 @@ hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
 file = "config/xaero/world-map/client.cfg"
-hash = "cd912d93edb33db50987ad7127ce08687106fa15ce7fe6849d74901115c13e80"
+hash = "90f4ca3b11b8af45b0c8dcf0b26c4d643847b2c3fc4648aa171defeebbbe1995"
 
 [[files]]
 file = "config/xaero/world-map/common.cfg"
@@ -1512,11 +1512,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
-metafile = true
-
-[[files]]
-file = "mods/spark.pw.toml"
-hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
 metafile = true
 
 [[files]]
