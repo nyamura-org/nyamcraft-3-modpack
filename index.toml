@@ -1400,6 +1400,11 @@ hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes-forge.pw.toml"
+hash = "32b9515e4f9a0ccbf91f88e67ef33319aab272e12e09e0c6b227d7be8238bfee"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
@@ -1417,11 +1422,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
-metafile = true
-
-[[files]]
-file = "mods/re-animal.pw.toml"
-hash = "4f90db793978fd68d26346271767de42c29549b89e6d5f5266e54b0621e71cb0"
 metafile = true
 
 [[files]]
