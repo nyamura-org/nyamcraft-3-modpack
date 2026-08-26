@@ -562,7 +562,7 @@ hash = "4b149e7c830083d5a685a54c2f28eb0371afc72126e6c2223115c9fc5608b23c"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "528f9bab080ce3b181bf539680f017a62fcd2794ef3ca0f8690b50174a6110ac"
+hash = "907f874f175564d7ada58148f2ed54ce739aacb2c0ecbd5b563be84b7d77ec02"
 
 [[files]]
 file = "config/wover/cached.json"
