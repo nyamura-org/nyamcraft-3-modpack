@@ -753,6 +753,22 @@ file = "kubejs/server_scripts/recipes/drying/dried_barley.js"
 hash = "291d5d42b9e6166603b576efe6c11451002c4e0c50707a4eab49afe9153b3b4b"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/farmersdelight/cooking/chocolate_taiyaki.js"
+hash = "d509087964ec43c7bf5cdb28552be07af53581063b9f570a664db2451ee87d83"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/farmersdelight/cooking/dumplings.js"
+hash = "dffd8503564c08f0e0ef20c70dbaf5b3920ce6d593d56267a5c28e761edf81c9"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/farmersdelight/cooking/glow_berry_taiyaki.js"
+hash = "5ac1caf5dc759c6139b75d7b98b232d510d988763ebe49a427a144ed78e6b627"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/farmersdelight/cooking/honey_taiyaki.js"
+hash = "fa0cf468aa94941652e9af8efab216eaafc080015eac245e0499ce32629b0c36"
+
+[[files]]
 file = "kubejs/server_scripts/recipes/farmersdelight/cooking/hosomaki.js"
 hash = "018c3083036cf39ca87f6f3622585a92a29d183e4dc06b90e1804f4a9b9d0ea3"
 
@@ -775,6 +791,10 @@ hash = "2daef5c17b5219921479f40c5327e2510a137ab2d5e1e7334e0f19e8f1115c7b"
 [[files]]
 file = "kubejs/server_scripts/recipes/farmersdelight/cooking/hosomaki_uncommon.js"
 hash = "ce98df05f4ab33ceddeb43cc7a628ee03fe9ec473ee4910d3bb5c90d7a8d003c"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/farmersdelight/cooking/magma_fish_balls.js"
+hash = "05bd334b57cb455f9500309d25832de67b11fa9e587c2632df39174898fe22cd"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/farmersdelight/cooking/nigiri.js"
@@ -801,12 +821,24 @@ file = "kubejs/server_scripts/recipes/farmersdelight/cooking/nigiri_uncommon.js"
 hash = "c1fbc95c26f0e27f44ff519de96eebe77e5992715f579b110a7483222eeeb00b"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/farmersdelight/cooking/pumpkin_taiyaki.js"
+hash = "f1ebebf5d9be3f7601a238d188ca8fb8f7fe584cfb6cd72a0c514557645559b1"
+
+[[files]]
 file = "kubejs/server_scripts/recipes/farmersdelight/cooking/spore_nigiri.js"
 hash = "2161de8a94c326a8d128dbe348e55c9025c409a4d4cd223f01435c292de82dfa"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/farmersdelight/cooking/steak_with_mushrooms.js"
 hash = "f4d15c715965be66b73083ac3272fc1d77852a0cea28824e039ba8bef17bb456"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/farmersdelight/cooking/suspicious_taiyaki.js"
+hash = "dacced06a7bb1d4437302b2feea6eb6041985f50dc5bc40bd307c781892a35f2"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/farmersdelight/cooking/sweet_berry_taiyaki.js"
+hash = "b1a88cefe4352097188942d9c153a0831271b24354d7df434ae247df91c6bd44"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/farmersdelight/cooking/temaki.js"
@@ -855,6 +887,10 @@ hash = "f68b1f63a71ca17bc738893aed4ed5c86da232fe2a5eb0a1888b1a1509ff0d61"
 [[files]]
 file = "kubejs/server_scripts/recipes/farmersdelight/cooking/uramaki_uncommon.js"
 hash = "b61f7d3561cf8ac7372748cb73cbe16312377cbf2070eb754dbda29100a3fa69"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/farmersdelight/cooking/watermelon_taiyaki.js"
+hash = "2457bad722a22caf5561ea4d633b7d54d21049471a824d4e56f15bc534373bde"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/farmersdelight/crafting.js"
@@ -915,6 +951,10 @@ hash = "6c1bac3abf51deb13e4032d17d6f10e2fbf058487a3d585b3821cbced7e92f68"
 [[files]]
 file = "kubejs/server_scripts/tags/questTags.js"
 hash = "6270f1fc7456158880c3dd8dd53236663ccef1abea13705422037c782699e7ef"
+
+[[files]]
+file = "kubejs/server_scripts/tags/trash_bag.js"
+hash = "0f7eb519f07ecc690fc65b3f19752d6851b2ac77ef0daaf5805f4f50757c36f7"
 
 [[files]]
 file = "kubejs/startup_scripts/currency/core.js"
