@@ -1,13 +1,13 @@
 name = "Citadel Up"
-filename = "citadelup-0.1.6-neoforge-1.21.1.jar"
+filename = "citadel-up-0.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b06437affb67d9e892d5e1142ff8ac0fed1a915e"
+hash = "a3517d9569426732b824b1119f4a849a048aae13"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8128660
+file-id = 8781015
 project-id = 1539190

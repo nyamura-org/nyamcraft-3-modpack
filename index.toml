@@ -976,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/alexs-mobs-up.pw.toml"
-hash = "8544f4b696f3887999ddbb12d3790f68242eaa868cc9e1e6a5b900f163746280"
+hash = "092c91e8e9f5fedcad091b46ec6b7dda88bcd328f16a18f4ebeab59d0fc53d85"
 metafile = true
 
 [[files]]
@@ -1011,7 +1011,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib-neoforge.pw.toml"
-hash = "7be62c8007981578e8fb36d6d5ec702685e7673445f72e1ccd329c1b2f4577e7"
+hash = "ca23221fc94d8fb6ceaf4aa08d25fb8e336782ad7c8ab9f29aca92a0255a0ba4"
 metafile = true
 
 [[files]]
@@ -1021,17 +1021,22 @@ metafile = true
 
 [[files]]
 file = "mods/betterend-neoforge.pw.toml"
-hash = "811a0532d490a0f569bb78d01fa842bddc267a3cc49c599ebbd06998a2ca1d1a"
+hash = "0b8f5c017e28f5a51acd2a2f05a4c6932f4f56733284b9e1b150935763c56ac9"
 metafile = true
 
 [[files]]
 file = "mods/betternether-neoforge.pw.toml"
-hash = "5cc5c66542da3dc20d3f0bf20da7fcc364ed7d2cb3d281210c2c359f2404f21f"
+hash = "2ca77611df391db033f9f9091150314689e437a505a03cca3ac85bee318073ca"
 metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "f6f723c2d15da3b36a2c29408deb914f6c4bdbe4a20aa652f3f07642011fce8e"
+metafile = true
+
+[[files]]
+file = "mods/bobby-reneoforged.pw.toml"
+hash = "5be371e4ac8c4543824badc197937d8c04e15d2e1ef609875d7b3f63eed81aeb"
 metafile = true
 
 [[files]]
@@ -1051,7 +1056,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel-up.pw.toml"
-hash = "02b84af41ea7d4ff972269e0db8c769d4198a33829f95bf6262bb8e2f8d75da9"
+hash = "eb94eae470ab7709ad881952803afd864e9ec706ee9c0cc2918999328ad91c8d"
 metafile = true
 
 [[files]]
@@ -1196,7 +1201,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "efc2c4fe9e2cc169aff61a6b7a41ea9bc7a22a90aadf0776b22de647ddf3cef6"
+hash = "d9ed9ac8e0db9db29078dafa22bc2d86ac702f10863ae7cb1d5245111c5ea17b"
 metafile = true
 
 [[files]]
@@ -1381,7 +1386,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "a0a2036a901c1d61589768d62bc92d0cd630a40e9dfe92f45aefdc835c0c808d"
+hash = "aebccf191b62a1a51562b84a95028caeada48f69bb9bf2ddb0280c91b1014ceb"
 metafile = true
 
 [[files]]
@@ -1426,7 +1431,7 @@ metafile = true
 
 [[files]]
 file = "mods/naturalist.pw.toml"
-hash = "f1363fb2ffcc4f617935af07f94a611adaa5d1e40cffdf303e9a546740a7411d"
+hash = "398b6b94cf062416480b6ef3af25e15f30594a680079a9ed3a32236c110245d2"
 metafile = true
 
 [[files]]
@@ -1461,12 +1466,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
+hash = "ac245e55621b2c36689db9068a9c6bfd01f98b89c66e344399a4a5a9fca209be"
 metafile = true
 
 [[files]]
 file = "mods/reconnectible-chains.pw.toml"
-hash = "953f1447791cdadbdca5fd80caf386e02896f039b883e444e3947a151636c9eb"
+hash = "84417de8f4cf28c265be60059e2381d9f45508bbf324e1889cefdbe958a64f3c"
 metafile = true
 
 [[files]]
@@ -1521,7 +1526,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "cca4b10598ae8cedcc2a6531a422453d624ceb4d1de1163ce46255415ccda045"
+hash = "8eae737eb20a0488e9b57b6a59f0681d142732bcb22fc896ad4e5ff924ec5683"
 metafile = true
 
 [[files]]
@@ -1541,12 +1546,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "9691e0caa6ebd2d045e862e792aa762b2eb159c359d9c446241d32f731a7e5bb"
+hash = "ef9a468055d108fb54f2834c041107fe478ce8448e495456414d3819a5cde794"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "c700f42611b1e4412c3528b976100e48d7fb992f84f39de37b8db3aa2bb444ce"
+hash = "1e4dd7bcdaa5fa5c66ebb3d10ed34992c8009294b048eaaa310377f10e1a733d"
 metafile = true
 
 [[files]]
@@ -1556,7 +1561,7 @@ metafile = true
 
 [[files]]
 file = "mods/starcatcher.pw.toml"
-hash = "14bd8d81dd8e2e313586273fd5b160ec0c3e33152b9a62af72c89c73284b4848"
+hash = "af6644862e47377719a023b1184a8c43515de0cd44ee15ccb939962d0346662e"
 metafile = true
 
 [[files]]
@@ -1586,12 +1591,12 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "e1bf5ce03e68844336f2872a9d203e9230dad089c2a32f43a7e9ebafc7464221"
+hash = "1316f9c04d36621a61989319e047735fd83e4b0e951dd6c89318ff8b4dfc1b4d"
 metafile = true
 
 [[files]]
 file = "mods/worldweaver-neoforge.pw.toml"
-hash = "ecac82c61c8c1c0536e522d8fec2627c8c882e52e9afafd54fe10651717bea2c"
+hash = "e7f3becce8c1bac61269de5c2bfa8a657896e3ef35f4f9b8fe316c084b5ff39a"
 metafile = true
 
 [[files]]
