@@ -976,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/alexs-mobs-up.pw.toml"
-hash = "092c91e8e9f5fedcad091b46ec6b7dda88bcd328f16a18f4ebeab59d0fc53d85"
+hash = "a7b56177a3ca45e31e50ee04a06e9cefec2f18aca3cdaeebad482a18a52fbe6d"
 metafile = true
 
 [[files]]
@@ -1056,7 +1056,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel-up.pw.toml"
-hash = "eb94eae470ab7709ad881952803afd864e9ec706ee9c0cc2918999328ad91c8d"
+hash = "98641e6d86f68d25fd36e2025934d4a58ece46d316d85d941e00eca9ef293115"
 metafile = true
 
 [[files]]
