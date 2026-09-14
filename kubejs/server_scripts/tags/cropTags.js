@@ -16,4 +16,5 @@ ServerEvents.tags('item', (event) => {
 	event.add('c:fruits/grape', 'vinery:jungle_grapes_red')
 	event.add('c:fruits/grape', 'vinery:jungle_grapes_white')
 	event.add('c:foods/tomato', 'croptopia:tomato')
+	event.add('c:seeds/rice', 'farmersdelight:rice')
 })

@@ -6,6 +6,6 @@ event.custom({
     { 'tag': 'c:milk' },
     { 'tag': 'c:salt' }
   ],
-  'result': { 'id': 'croptopia:butter', 'count': 2 },
+  'result': { 'id': 'croptopia:butter', 'count': 2 }
 })
 })

@@ -8,4 +8,5 @@ LootJS.modifiers((event) => {
 	event.addBlockModifier("farm_and_charm:wild_tomatoes").replaceLoot("farm_and_charm:tomato_seeds", "croptopia:tomato_seed")
 	event.addBlockModifier("farm_and_charm:tomato_crop").replaceLoot("farm_and_charm:tomato", "croptopia:tomato")
 	event.addBlockModifier("farm_and_charm:tomato_crop").replaceLoot("farm_and_charm:tomato_seeds", "croptopia:tomato_seed")
+	event.addBlockModifier("farm_and_charm:tomato_crop").replaceLoot("farmersdelight:rotten_tomato", "farmersdelight:rotten_tomato")
 })

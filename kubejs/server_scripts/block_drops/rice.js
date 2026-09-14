@@ -5,3 +5,7 @@ LootJS.modifiers((event) => {
 	event.addBlockModifier("farmersdelight:rice_panicles").replaceLoot("farmersdelight:rice_panicle", "croptopia:rice")
 	event.addBlockModifier("farmersdelight:rice").replaceLoot("farmersdelight:rice", "croptopia:rice")
 })
+ServerEvents.recipes(event => {
+	event.shapeless('farmersdelight:rice',  [ 'croptopia:rice_seed' ])
+	event.shapeless('croptopia:rice_seed',  [ 'farmersdelight:rice' ])
+})
