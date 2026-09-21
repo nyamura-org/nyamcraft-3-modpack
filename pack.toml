@@ -1,12 +1,12 @@
 name = "Nyamcraft"
 author = "Lnvll"
-version = "0.7.0"
+version = "0.7.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4933eca478a1e191c5c824d888666d1ca8dbdf158ab2808066143f792ac6c1fa"
+hash = "0268eb632bb8366cb4a844b34bef6026975ac7ea8fc09a4ac72b152d7b20633f"
 
 [versions]
 minecraft = "1.21.1"
