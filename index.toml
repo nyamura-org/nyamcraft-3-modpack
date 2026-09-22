@@ -953,6 +953,10 @@ file = "kubejs/server_scripts/recipes/removeRecipes.js"
 hash = "9b08ea24f9053a7ed6cefe65fb2d135b96d2e9510af6e6e729cdb3a657d1b8cb"
 
 [[files]]
+file = "kubejs/server_scripts/recipes/roaster/bacon.js"
+hash = "220f1218c92154e3a347ac1e6bfdb0d8f2d2ec10a988f4efef55a2d6c449963d"
+
+[[files]]
 file = "kubejs/server_scripts/recipes/roaster/barley_soup.js"
 hash = "5a987fb2a0bff99feae417528f680f234241cf701139295aaf9f8893eb2080d8"
 
@@ -982,7 +986,7 @@ hash = "6c1bac3abf51deb13e4032d17d6f10e2fbf058487a3d585b3821cbced7e92f68"
 
 [[files]]
 file = "kubejs/server_scripts/tags/misc.js"
-hash = "0e0bb836d76c545317e6277e4c43cf1ec163ee0bf68a8ff97708b6bdfbcdd3d6"
+hash = "6d532a9f45c1cda86aca031e64e9b39cd7e2a4bb39e48901fe5ad902983ef3dd"
 
 [[files]]
 file = "kubejs/server_scripts/tags/questTags.js"
@@ -1092,7 +1096,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel-up.pw.toml"
-hash = "98641e6d86f68d25fd36e2025934d4a58ece46d316d85d941e00eca9ef293115"
+hash = "41a154269362ac5a1dfd05b278953e846d728e4af10d3f7003eaf76ee2df1548"
 metafile = true
 
 [[files]]
