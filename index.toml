@@ -950,7 +950,7 @@ hash = "5b76d3288472dd1f1ef09928f63a2571519592281c42c3e19bed75bf7b730e7c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/removeRecipes.js"
-hash = "9b08ea24f9053a7ed6cefe65fb2d135b96d2e9510af6e6e729cdb3a657d1b8cb"
+hash = "f84130774dfb025a8fa9a191a3e03bb3ba2adf4da2025b1e12a04d67064bcb3d"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/roaster/bacon.js"
