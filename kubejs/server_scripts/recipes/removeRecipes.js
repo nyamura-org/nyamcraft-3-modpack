@@ -3,7 +3,8 @@ ServerEvents.recipes(event => {
 	const removeByOutput = [
 	"farmersdelight:dog_food",
 	"croptopia:dough",
-	"croptopia:coffee"
+	"croptopia:coffee",
+	"alexsmobsup:transmutation_table"
 	]
 
 	removeByOutput.forEach((item) => {
