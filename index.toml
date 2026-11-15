@@ -6,7 +6,7 @@ hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
 file = "config/aether-server.toml"
-hash = "994b732edf2cb04c447b86a95e0770ce1c22d66fc8a84a5109b983c592601304"
+hash = "d2f68ed0feb95e7b402a66086eb398d550759955bd986390853f449eeb792a84"
 
 [[files]]
 file = "config/appleskin-client.toml"
